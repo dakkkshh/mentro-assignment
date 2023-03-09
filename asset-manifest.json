@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mentro-assignment/static/css/main.ab128eff.css",
+    "main.js": "/mentro-assignment/static/js/main.362adc54.js",
+    "static/js/787.b1f3b128.chunk.js": "/mentro-assignment/static/js/787.b1f3b128.chunk.js",
+    "static/media/ankita.jpg": "/mentro-assignment/static/media/ankita.a07b56da0e36f5bd0fc6.jpg",
+    "static/media/saurav.jpg": "/mentro-assignment/static/media/saurav.d596396c3bc1658bb7a2.jpg",
+    "static/media/saumya.jpg": "/mentro-assignment/static/media/saumya.d51b5ac3684316431df9.jpg",
+    "static/media/prankur.jpg": "/mentro-assignment/static/media/prankur.6c948f111b91abb00dbe.jpg",
+    "static/media/keshav.jpg": "/mentro-assignment/static/media/keshav.f8b63ae5981f50f385d0.jpg",
+    "index.html": "/mentro-assignment/index.html",
+    "main.ab128eff.css.map": "/mentro-assignment/static/css/main.ab128eff.css.map",
+    "main.362adc54.js.map": "/mentro-assignment/static/js/main.362adc54.js.map",
+    "787.b1f3b128.chunk.js.map": "/mentro-assignment/static/js/787.b1f3b128.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab128eff.css",
+    "static/js/main.362adc54.js"
+  ]
+}
