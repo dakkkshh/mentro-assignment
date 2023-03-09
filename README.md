@@ -2,16 +2,17 @@
 
 ## Screenshots
 ### Prankur Gupta
-[Prankur](prankur.png)
+
+![Prankur](prankur.png)
 
 ### Ankita
-[Ankita](ankita.png)
+![Ankita](ankita.png)
 
 ### Keshav Bathla
-[Keshav](keshav.png)
+![Keshav](keshav.png)
 
 ### Sauumya Singh
-[Saumya](saumya.png)
+![Saumya](saumya.png)
 
 ### Sourav Pal
-[Sourav](saurav.png)
+![Sourav](saurav.png)
